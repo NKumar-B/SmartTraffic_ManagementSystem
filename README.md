@@ -1,4 +1,4 @@
-# 🚥 Smart Traffic Management System using Arduino
+# Smart Traffic Management System using Arduino
 
 **Smart Traffic Management System (STMS)** is an intelligent, microcontroller-based solution designed to optimize urban traffic flow, reduce congestion, and improve road safety. This project utilizes the **Arduino platform** to create an adaptive and cost-effective alternative to traditional fixed-timing traffic signals.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Adaptive Signal Control**: Lays the foundation for a system that can adjust timings based on real-time vehicle density and speed.
 * **Sequential Logic Implementation**: Features a realistic, timed traffic cycle (Red, Yellow, Green) controlled via software logic.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Hardware Requirements
+## Hardware Requirements
 
 * **Microcontroller**: Arduino Uno R3 (ATmega328P) 
 * **Visual Indicators**: LEDs (Red, Yellow, Green) 
@@ -25,14 +25,14 @@
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 * **Arduino IDE**: For writing, compiling, and uploading the control logic 
 * **C++ Sketch**: Programming script for sequential traffic light control 
 
 ---
 
-## 🔌 Circuit Configuration
+## Circuit Configuration
 
 * **Red LED**: Connected to Digital Pin **2** via resistor 
 * **Yellow LED**: Connected to Digital Pin **3** via resistor 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🎮 How to Use
+## How to Use
 
 1. **Assemble the Circuit**: Follow the pinout configuration mentioned above .
 2. **Upload Code**:
@@ -52,7 +52,7 @@
 
 ---
 
-## 🔮 Future Recommendations
+## Future Recommendations
 
 * **Sensor Integration**: Adding IR, Ultrasonic, or Camera sensors for true real-time adaptive sensing.
 * **Emergency Prioritization**: Implementing RFID or wireless receivers to prioritize ambulances and fire trucks.
@@ -60,7 +60,7 @@
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * **Institute**: Mother Theresa Institute of Engineering and Technology (MTIET) 
 * **Guidance**: Mr. K S Ranjith, Associate Professor (Dept. of AI&DS) 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 For more details, see the [LICENSE](LICENSE) file in this repository.
